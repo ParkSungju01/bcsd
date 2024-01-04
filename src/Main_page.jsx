@@ -25,8 +25,8 @@ export default function Main() {
           </a>
         </div>
         <div className="input">
-          <input placeholder="아이디"></input>
-          <input placeholder="비밀번호"></input>
+          <input placeholder="아이디" className="write"></input>
+          <input placeholder="비밀번호" className="write"></input>
         </div>
         <button className="btn_log">로그인</button>
       </div>

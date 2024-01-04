@@ -38,7 +38,7 @@ export default function New() {
             <input placeholder="전공" className="write"></input>
             <input placeholder="전화번호" className="write"></input>
           </div>
-          <button className="btn_log">로그인</button>
+          <button className="btn_log">회원가입</button>
         </div>
       </div>
     </>

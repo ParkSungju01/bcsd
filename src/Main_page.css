@@ -5,7 +5,7 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  background-color: green;
+  background-image: url("https://cdn.imweb.me/upload/S202207202685e30f16e24/41f854bd38a2b.jpeg");
 }
 .href {
   display: flex;
@@ -24,9 +24,6 @@
 .input {
   display: flex;
   flex-direction: column;
-  padding-bottom: 10px;
-}
-.write {
   margin-bottom: 10px;
 }
 .btn_log {
@@ -40,8 +37,8 @@
   border-style: solid;
   border-color: black;
   border-radius: 10%;
-  width: 300px;
-  height: 300px;
+  width: 200px;
+  height: 200px;
   display: flex;
   align-items: center;
   justify-content: center;

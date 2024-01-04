@@ -45,10 +45,3 @@
   flex-direction: column;
   background-color: white;
 }
-body {
-  background-image: url("C:\Users\psj00\Desktop\배경.jpeg");
-  background-repeat: no-repeat;
-  background-position: top center;
-  background-size: cover;
-  background-attachment: fixed;
-}
